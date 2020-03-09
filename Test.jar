@@ -10,5 +10,5 @@ public class scann {
 			System.out.println("输入的值为："+next);
 		}
 	}
-
+新增的编辑行
 }
